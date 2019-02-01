@@ -14,4 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_x2.mk
+    $(LOCAL_DIR)/rr_x2.mk
