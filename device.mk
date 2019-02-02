@@ -53,9 +53,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 # Device settings
 PRODUCT_PACKAGES += \
     DeviceSettings
-#LePref
-PRODUCT_PACKAGES += \
-    LePref
+
 # Fingerprint
 PRODUCT_PACKAGES += \
     android.hardware.biometrics.fingerprint@2.1-service
